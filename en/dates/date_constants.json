@@ -1,0 +1,75 @@
+{
+  "months": {
+
+    "JANUARY": 0,
+    "FEBRUARY": 1,
+    "MARCH": 2,
+    "APRIL": 3,
+    "MAY": 4,
+    "JUNE": 5,
+    "JULY": 6,
+    "AUGUST": 7,
+    "SEPTEMBER": 8,
+    "OCTOBER": 9,
+    "NOVEMBER": 10,
+    "DECEMBER": 11,
+
+    "names": {
+      "full": {
+        "uppercase": ["JANUARY", "FEBRUARY", "MARCH", "APRIL", "MAY", "JUNE", "JULY", "AUGUST", "SEPTEMBER", "OCTOBER", "NOVEMBER", "DECEMBER"],
+        "capitalized": ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+        "lowercase": ["january", "february", "march", "april", "may", "june", "july", "august", "september", "october", "november", "december"]
+      },
+      "short": {
+        "uppercase": ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"],
+        "capitalized": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+        "lowercase": ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+      }
+    }
+  },
+
+  "days": {
+
+    "SUNDAY": 0,
+    "MONDAY": 1,
+    "TUESDAY": 2,
+    "WEDNESDAY": 3,
+    "THURSDAY": 4,
+    "FRIDAY": 5,
+    "SATURDAY": 6,
+
+    "names": {
+      "full": {
+        "uppercase": ["SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY"],
+        "capitalized": ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+        "lowercase": ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"]
+      },
+      "medium": {
+        "uppercase": ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"],
+        "capitalized": ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"],
+        "lowercase": ["sun", "mon", "tue", "wed", "thu", "fri", "sat"]
+      },
+      "short": {
+        "uppercase": ["SU", "MO", "TU", "WE", "TH", "FR", "SA"],
+        "capitalized": ["Su", "Mo", "Tu", "We", "Th", "Fr", "Sa"],
+        "lowercase": ["su", "mo", "tu", "we", "th", "fr", "sa"]
+      }
+    }
+  },
+
+  "seasons": {
+
+    "SPRING": 0,
+    "SUMMER": 1,
+    "AUTUMN": 2,
+    "WINTER": 3,
+
+    "names": {
+      "full": {
+        "uppercase": ["SPRING", "SUMMER", "AUTUMN", "WINTER"],
+        "capitalized": ["Spring", "Summer", "Autumn", "Winter"],
+        "lowercase": ["spring", "summer", "autumn", "winter"]
+      }
+    }
+  }
+}
