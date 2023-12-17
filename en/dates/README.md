@@ -5,12 +5,12 @@ This is a curated collection of essential constants that programmers often need 
 ## Table of Contents
 
 - [Months](#months)
-    + [Full Format](#months)
-    + [Short Format](#months)
+    + [Full Format](#full-format)
+    + [Short Format](#short-format)
 - [Days](#days)
-    + [Full Format](#months)
-    + [Medium Format](#months)
-    + [Short Format](#months)
+    + [Full Format](#full-format-1)
+    + [Medium Format](#medium-format)
+    + [Short Format](#short-format-1)
 - [Seasons](#seasons)
 
 ## Months
