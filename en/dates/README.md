@@ -98,12 +98,12 @@ This is a curated collection of essential constants that programmers often need 
 
 ##### Uppercase
 ```py
-["SPRING", "SUMMER", "AUTUMN/FALL", "WINTER"]
+["SPRING", "SUMMER", "AUTUMN", "WINTER"]
 ```
 ##### Capitalized
 ```py
-["Spring", "Summer", "Autumn/Fall", "Winter"]
+["Spring", "Summer", "Autumn", "Winter"]
 ```
 ##### Lowercase
 ```py
-["spring", "summer", "autumn/fall", "winter"]
+["spring", "summer", "autumn", "winter"]
